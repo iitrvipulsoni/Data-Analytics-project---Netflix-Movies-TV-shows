@@ -51,7 +51,9 @@ In this project, we worked with a Netflix dataset and performed data cleansing a
 Once the data was cleansed and prepared, we used Tableau to create a variety of visualizations to explore and understand the Netflix dataset. This included:
 
 > Bar charts to show trends in movies & TV shows relases over time
+
 > Bar charts to compare different categories of movies and TV shows (e.g. genre, ratings)
+
 > Map plot to identify relationships between variables (e.g. countries and number of movies & TV shows)
 
 The visualizations allowed us to identify patterns and trends in the Netflix dataset, and to communicate our findings to stakeholders.
