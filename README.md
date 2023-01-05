@@ -61,6 +61,7 @@ The visualizations allowed us to identify patterns and trends in the Netflix dat
 #### Data Visualization Workbook:
 
 * Netflix-Data Viz. with Tableau (ppt format)
+* Netflix-Data Viz. with Tableau (twbx format)
 
 * Netflix-Data Viz. with Tableau Dashboard on Tableau Public: https://public.tableau.com/app/profile/vipul.soni/viz/Netflix-DataViz_withTableau/Netflix 
 
