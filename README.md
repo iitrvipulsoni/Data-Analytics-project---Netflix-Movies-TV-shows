@@ -1,7 +1,7 @@
 # Netflix-Movies-TV-shows-Data-Analytics-Project
 
 ## Data Cleansing and Preparation
-In this project, I worked with a Netflix dataset and performed data cleansing and preparation using MySQL and MS Excel. The raw dataset was in a variety of formats and needed to be transformed and cleaned before it could be used for analysis.
+In this project, I worked with a Netflix dataset and performed data cleansing and preparation using MySQL and MS Excel and data visualization using Tableau Public. The raw dataset was in a variety of formats and needed to be transformed and cleaned before it could be used for analysis and visualization.
 
 ### Data Cleansing
 
@@ -48,7 +48,7 @@ In this project, I worked with a Netflix dataset and performed data cleansing an
 
 * Curated_data-netflix-Final (xlsx format)
 
-Once the data was cleansed and prepared, we used Tableau to create a variety of visualizations to explore and understand the Netflix dataset. This included:
+Once the data was cleansed and prepared, I used Tableau to create a variety of visualizations to explore and understand the Netflix dataset. This included:
 
 > Bar charts to show trends in movies & TV shows relases over time
 
@@ -56,7 +56,7 @@ Once the data was cleansed and prepared, we used Tableau to create a variety of 
 
 > Map plot to identify relationships between variables (e.g. countries and number of movies & TV shows)
 
-The visualizations allowed us to identify patterns and trends in the Netflix dataset, and to communicate our findings to stakeholders.
+The visualizations allowed me to identify patterns and trends in the Netflix dataset, and to communicate the findings to stakeholders.
 
 #### Data Visualization Workbook:
 
