@@ -1,7 +1,7 @@
 # Netflix-Movies-TV-shows-Data-Analytics-Project
 
 ## Data Cleansing and Preparation
-In this project, we worked with a Netflix dataset and performed data cleansing and preparation using MySQL and MS Excel. The raw dataset was in a variety of formats and needed to be transformed and cleaned before it could be used for analysis.
+In this project, I worked with a Netflix dataset and performed data cleansing and preparation using MySQL and MS Excel. The raw dataset was in a variety of formats and needed to be transformed and cleaned before it could be used for analysis.
 
 ### Data Cleansing
 
